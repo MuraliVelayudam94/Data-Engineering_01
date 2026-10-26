@@ -1,0 +1,19 @@
+1.Create a venv 
+py -m venv .venv
+
+2.Install Kaggle
+py install Kaggle
+
+3. To create Requiremnet Text
+pip freeze > requirments.txt
+
+4.Download the datasets 
+kaggle datasets download ankitbansal06/retail-orders -f orders.csv (In CMD)
+
+5.Install Pandas
+pip install pandas
+
+6.Connect Python to Oracle Sql 
+python -m pip install oracledb
+
+7.
