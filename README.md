@@ -6,8 +6,6 @@ An end-to-end data engineering project that demonstrates how to download a datas
 
 ## 🔄 Project Workflow
 
-![Data Engineering Workflow](images/data-engineering-workflow.png)
-
 ## 🚀 Project Overview
 
 This project follows a practical data engineering workflow, transforming raw datasets into structured, analysis-ready data.
